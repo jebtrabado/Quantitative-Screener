@@ -1,4 +1,5 @@
-#**NOTE: THIS PROGRAM WAS MADE TO RUN FOR THE PSE STOCKS. THE URL CAN BE CHANGED FOR A DIFFERENT MARKET.**
+#**NOTE: OUTDATE (2023): MORNINGSTAR CHANGED THE WEBSITE, PROGRAM NO LONGER WORKS.
+THIS PROGRAM WAS MADE TO RUN FOR THE PSE STOCKS. THE URL CAN BE CHANGED FOR A DIFFERENT MARKET.**
 #**DISCLAIMER:  I am not a financial advisor. These are just for educational purposes only. Please consult your financial or tax professional before making an investment. I am not liable for any loss caused due to any usage of the information found in this post.**
 
   This is my first project after learning how to program for about 3 months so expect a slow program, and most likely a lot of unecessary codes. This program is based on the book of Tobias E. Carlisle "Quantitative Value". I recommend you to read the book to understand the usage of the output of this program. Note that values scraped may be incorrect.
