@@ -3,7 +3,7 @@
 ### DISCLAIMER: THIS PROGRAM WAS MADE FOR EDUCATIONAL PURPOSES ONLY, I'M NOT GOOD AT STATISTICS SO THE PROGRAM MAY GIVE MISLEADING RESULTS. I'M NOT RESPONSIBLE FOR ANY DECISION YOU MAKE USING THE INFORMATION FROM THIS PROGRAM. CONSULT A FINANCIAL ANALYST OR SOMETHING WHEN DECIDING TO TRADE OR INVEST IN THE STOCK MARKET.
 This is a program for analyzing potential returns for the PSE companies by using the most common method of using a MACD signal.
 
-### CLICK  THE MACD auto calc FILE FOR THE RESULTS OF THE ANALYSIS
+### CLICK "THE MACD auto calc" FILE FOR THE RESULTS OF THE ANALYSIS
 
 I didn't use all the public companies in the PSE as I don't know yet how to automate the downloading of historical data from ph.investing.
 
